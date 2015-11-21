@@ -1,0 +1,12 @@
+# Site settings
+title: MachaDa
+email: macha@machada.fr
+description: > # this means to ignore newlines until "baseurl:"
+  MachaDa is a blog about News on Android and Android Wear. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://machadacosta.github.io" # the base hostname & protocol for your site
+twitter_username: MachaDaCosta
+github_username:  machadaCosta
+
+# Build settings
+markdown: kramdown
