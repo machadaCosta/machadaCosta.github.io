@@ -5,7 +5,6 @@ permalink: /contact/
 feature-img: "img/header/contact.png"
 ---
 
-# Contact
 
 Macha DA COSTA: Freelance in Mobile & Web development
 
