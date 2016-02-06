@@ -1,12 +1,86 @@
-# Site settings
-title: MachaDa
-email: macha@machada.fr
-description: > # this means to ignore newlines until "baseurl:"
-  MachaDa is a blog about News on Android and Android Wear. 
+# SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://machadacosta.github.io" # the base hostname & protocol for your site
-twitter_username: MachaDaCosta
-github_username:  machadaCosta
+url: "https://machadacosta.github.io" # the base hostname & protocol for your site
+imageurl: "img/header/header.jpg" #"https://unsplash.it/2600/500?random"https://source.unsplash.com/category/nature/2600x500
 
-# Build settings
-markdown: kramdown
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: MACHA DA
+  #avatar: img/machada.png
+  hometitle:  #display on navigation menu.
+  yoursitetitle: 
+  gravatar: # Email MD5 hash
+  description: "Macha Da is a blog about Android, Android Wear, Mobile Tech and chill out." # used by search engines
+  visiblewords: 500
+  # Header and footer text
+  header_text: >
+     Born to be Mobile !
+
+  header_text_feature_image: 
+  place_holder_image:
+  footer_text: >
+   <a href="https://machadacosta.github.io">MACHA DA</a> 
+
+  # Icons
+  rss: false
+  email_address: "macha@machada.fr" # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: "machada.fr"
+  flickr:
+  github: "machadaCosta"
+  weibo: 
+  google_plus:
+  instagram:
+  linkedin:  "http://fr.linkedin.com/in/machadacosta"
+  pinterest: 
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "machaDaCosta"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  #str_next: "Next"
+  #str_prev: "Prev"
+  str_continue_reading: "Continue Reading..."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+enforce_ssl: "fengzhichu.com"
+paginate: 4
+paginate_path: "/blog/page:num"
+permalink: /blog/  #Delete preurl 'fengzhichu-theme/' if used for your personal site.
+
+# Posted in ... with ...
+sechby: 
+  category:   #in
+  tag:   #with
+
+# BUILD SETTINGS
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed

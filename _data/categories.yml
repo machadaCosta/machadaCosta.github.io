@@ -1,0 +1,10 @@
+- slug: android
+  name: Android
+  color: '#009650'
+  
+- slug: chillout
+  name: Chill Out
+#  color: '#1abc9c'
+- slug: mobile
+  name: Mobile Study
+#  color: '#1abc9c'
