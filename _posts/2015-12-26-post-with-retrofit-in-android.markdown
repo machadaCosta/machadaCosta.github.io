@@ -14,26 +14,21 @@ First of all, we have to import the last version of Retrofit library in our Andr
 
 1. Create a new Android project or Open an existing one.
 2. In the gradle file of the project, the one attached to app/ module (not the one attached to the whole project!), include the library:
- ```java
- dependencies {
-	.
-	.
-	.
-	compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
- } 
- ```
+
+	```java
+	 dependencies {
+		compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
+	 } 
+	```
 3. In the same gradle file, import a JSON converter:
 
-```java
-dependencies {
-	.
-	.
-	.
-	compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
-}
-```
-4. Add permission to authorize application to connect to the internet in the Manifest file of the project, AndroidManifest.xml (beetween manifest and application balises) :
+	```java
+	dependencies {
+		compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
+	}
+	```
+4. Add permission to authorize application to connect to the internet in the Manifest file of the project, AndroidManifest.xml (beetween manifest and application tag):
 
-```xml
-<uses-permission android:name="android.permission.INTERNET" />
-```
+	```xml
+	<uses-permission android:name="android.permission.INTERNET" />
+	```
