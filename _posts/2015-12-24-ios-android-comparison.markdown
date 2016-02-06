@@ -12,7 +12,7 @@ Android or iOS? is the eternal question, often debated between Samsung and Apple
 # Android VS iOS: table of comparison
 
 
- Comparison Point | ![android logo]({{ site.baseurl }}/img/android.png) ANDROID | ![ios logo]({{ site.baseurl }}/img/apple.png) iOS   | Comment
+ Comparison Point | ![android logo]({{ site.baseurl }}/img/android.png) | ![ios logo]({{ site.baseurl }}/img/apple.png)   | Comment
  ----------------- | :---------: | :-------: | ---------: 
   Global Share     | 81 %    | 16 %  | Based on 2015 study from IDC 
   Market Share     | +       | -     | More than 1 milliard of Android devices shipment in 2015 
