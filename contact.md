@@ -3,9 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 feature-img: "img/header/contact.png"
+color: #0018ff
 ---
 
-
+<img style="float: right;" alt="macha da costa" src="/img/macha_profil.jpg">
 Macha DA COSTA: Freelance in Mobile & Web development
 
 ## About Me
