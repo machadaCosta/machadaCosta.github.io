@@ -18,7 +18,7 @@ This experience with Android continued when I had the opportunity to teach at th
 
 From Froyo (2.2) to Kitkat (4.4) and other patisseries, changes are not a chill out task but always end-up in tasty new experiences.
 
-On a personal note, I'm passionate about sports (running, volleyball, free diving), and that is why the launch of the first connected watch, in June 2014, retained all my attention and fed my [Healthy Heart Rate App](www.chillcoding.com/bachamada).
+On a personal note, I'm passionate about sports (running, volleyball, free diving), and that is why the launch of the first connected watch, in June 2014, retained all my attention and fed my [Healthy Heart Rate App](http//www.chillcoding.com/bachamada).
 
 ## Find Me
 
