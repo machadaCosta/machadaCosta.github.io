@@ -10,19 +10,17 @@ feature-img: "img/header/contact.png"
 Macha DA COSTA: Freelance in Mobile & Web development
 
 ## About Me
-I'm freelance in Android development since 2014 june in Sophia Antipolis area and I develop android applications on smartphone since 2010.
+I'm Android developer since 2010 in the Sophia Antipolis area.
 
-My experience in Android development started with engineer internship realised at  [Prim'vision](https://www.primvision.com/) a start-up located at Villeneuve-Loubet. I had choose this internship to improve my mobile development in plus of web skill. For the little story : first the considered technology was Java For Mobile; at this time the green robot was under starlight and my superior change the specification application must be deployed on Android. Eclair version, the 2.1, just come out and I was really excited about this open source project, Android.
+My experience in Android development started with an engineer internship at [Prim'vision](https://www.primvision.com/), a start-up based in Villeneuve-Loubet. I had chosen this internship to improve my mobile and web development skill. For the little story : at first, the considered technology was Java For Mobile, but due to rise of the green robot, my superior decided to go with Android instead. Eclair version, the 2.1, just came out and I was really excited about this open source project: Android.
 
-This experience with Android continued when I had the opportunity to give course at University of Nice-Sophia Antipolis. I am so enjoy to share my knowledge about my favourite language with student of [Licence Professionnelle de l'IUT Informatique](http://lpsil.unice.fr/doku.php).
+This experience with Android continued when I had the opportunity to teach at the University of Nice-Sophia Antipolis. Since then, I truely enjoy sharing my knowledge about my favourite language with students of [Licence Professionnelle de l'IUT Informatique](http://lpsil.unice.fr/doku.php).
 
-After Eclair (2.1) comes Froyo (2.2), then between Gingerbread (2.3) and Kitkat (4.4) changes was not chill out, nevertheless, I always follow these patisseries.
+From Froyo (2.2) to Kitkat (4.4) and other patisseries, changes are not a chill out task but always end-up in tasty new experiences.
 
-Besides, I'm passionate about sports (running, volleyball, free diving), that is why the launch of first connected watch, in 2014 june, retain all my attention and feed my application project on heart rate monitoring.
+On a personal note, I'm passionate about sports (running, volleyball, free diving), and that is why the launch of the first connected watch, in June 2014, retained all my attention and fed my [Healthy Heart Rate App](www.chillcoding.com/bachamada).
 
 ## Find Me
-
-
 
 
 
