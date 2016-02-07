@@ -4,6 +4,7 @@ title: Contact
 category: contact
 permalink: /contact/
 feature-img: "img/header/contact.png"
+excerpt: Macha Da Costa is a freelance android developer in nice area
 ---
 
 <img style="float: right;" alt="macha da costa" src="/img/macha_profil.jpg">

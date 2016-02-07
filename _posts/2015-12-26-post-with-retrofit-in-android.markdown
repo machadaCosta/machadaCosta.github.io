@@ -5,6 +5,7 @@ date:   2014-12-26
 author: Macha Da Costa
 category: android
 image: droid_request.png
+excerpt: This post is about using retorfit in an android project.
 ---
 
 This tutorial explain how to make a HTTP POST request wwith the library Retrofit in an Android project. JSON format with Retrofit version 2.0 is used.
