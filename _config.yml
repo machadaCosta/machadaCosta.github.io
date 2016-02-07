@@ -12,7 +12,7 @@ theme:
   yoursitetitle: 
   gravatar: # Email MD5 hash
   description: "Macha Da is a blog about Android, Android Wear, Mobile Tech and chill out." # used by search engines
-  visiblewords: 500
+  visiblewords: 50
   # Header and footer text
   header_text: >
      Born to be Mobile !

@@ -71,6 +71,10 @@ article, aside, footer, header, hgroup, nav, section { display: block; }
 
 .call-out-title-main{color:white;}
 .call-out-title{color:black;}
+.title-android{color:#009550;}
+.title-chillout{color:#e1282d;}
+.title-mobile{color:#f0c30f;}
+.title-contact{color:#146eea;}
 .call-out-content{color:black;}
 .subtitlecontainer { text-decoration: none; color: #9B9B9B; font-weight: normal; font-family: "Microsoft YaHei" !important; padding-top: .5em; }
 .subtitle { color: #9B9B9B;}
