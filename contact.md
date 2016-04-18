@@ -8,7 +8,7 @@ excerpt: Macha Da Costa is a freelance android developer in nice area
 ---
 
 <img style="float: right;" alt="macha da costa" src="/img/macha_profil.jpg">
-Macha DA COSTA: Freelance in Mobile & Web development
+Macha DA COSTA: Freelance in Mobile & Web development at [ChillCoding](https://www.chillcoding.com)
 
 ## About Me
 I'm Android developer since 2010 in the Sophia Antipolis area.
