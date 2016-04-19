@@ -70,7 +70,9 @@ article, aside, footer, header, hgroup, nav, section { display: block; }
 	#et-secondary-menu li, #top-menu li { word-wrap: break-word; }
 
 .call-out-title-main{color:white;}
-.call-out-title{color:black;}
+.call-out-title{color:black;
+padding: 2% 2% !important;
+    border-bottom: 1px solid rgba(0,0,0,0.1);}
 .title-android{color:#009550;}
 .title-chillout{color:#e1282d;}
 .title-mobile{color:#f0c30f;}
