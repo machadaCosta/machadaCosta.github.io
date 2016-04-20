@@ -11,7 +11,7 @@ permalink: /android-ios-comparison/
 
 Android or iOS? is the eternal question, often debated between Samsung and Apple users. Here we attempt to give an objectif point of view on the both main OS Mobile in the world. This study of iOS and Android technology is based on severals statistics, and on experience of users/developers that all loves both system.
 
-# Android VS iOS: table of comparison
+## Android VS iOS: Table of comparison
 
 
  Comparison Point | ![android logo]({{ site.baseurl }}/img/android.png) | ![ios logo]({{ site.baseurl }}/img/apple.png)   | Comment

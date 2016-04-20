@@ -11,7 +11,7 @@ permalink: /android-retrofit-send-http/
 
 This tutorial explain how to make a HTTP POST request wwith the library Retrofit in an Android project. JSON format with Retrofit version 2.0 is used.
 
-# Configure project to use Retrofit
+## Configure project to use Retrofit
 First of all, we have to import the last version of Retrofit library in our Android Studio project.
 
 1. Create a new Android project or Open an existing one.
