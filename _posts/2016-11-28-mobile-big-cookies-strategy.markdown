@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Big Cookies Strategy"
+title:  "Big Cookie Strategy"
 date:   2016-11-28
 author: Macha Da Costa
 category: mobile
-tags: [mobile development, big cookies strategy]
+tags: [mobile development, big cookie strategy]
 excerpt: This post is about the Big Cookie Strategy for exchange between server and mobile.
 permalink: /mobile-big-coukies-strategy/
 ---
@@ -14,7 +14,7 @@ Big Cookie Strategy was created to optimize exchange between a mobile applicatio
 
 ## What is Big Cookie Strategy ?
 
-![Big Cookie Strategy in Mobile Development]({{ site.baseurl }}/img/big-cookies-strategy.png)
+![Big Cookie Strategy in Mobile Development]({{ site.baseurl }}/img/big-cookie-strategy.png)
 
 
 <i class="fa fa-list" aria-hiden="true"></i> Step by step :
