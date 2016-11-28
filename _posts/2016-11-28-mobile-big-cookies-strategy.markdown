@@ -30,7 +30,7 @@ For instance, here is a data set proposal in terms of connectivity:
 
 | Connectivity | Data set |
 | ---------- | :--------|
-| <i class="fa fa-signal" aria-hiden="true"></i> Edge | Info since one or two hour |
+| <i class="fa fa-signal" aria-hiden="true"></i> Edge | Info since one or two hours |
 | 3G or 4G | Info since 3 days |
 | <i class="fa fa-wifi" aria-hiden="true"></i> Wifi | Info since 15 days | 
 
