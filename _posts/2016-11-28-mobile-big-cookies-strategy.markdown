@@ -6,7 +6,7 @@ author: Macha Da Costa
 category: mobile
 tags: [mobile development, big cookie strategy]
 excerpt: This post is about the Big Cookie Strategy for exchange between server and mobile.
-permalink: /mobile-big-coukies-strategy/
+permalink: /mobile-big-cookie-strategy/
 ---
 
 Big Cookie Strategy was created to optimize exchange between a mobile application and a server.
@@ -23,7 +23,7 @@ Big Cookie Strategy was created to optimize exchange between a mobile applicatio
 2. Ask needed data to server with the connectivity state in user agent (<i class="fa fa-exchange" aria-hiden="true"></i> )
 3. Receive prefetch* data from server ( <i class="fa fa-database" aria-hiden="true"></i> (<i class="fa fa-signal" aria-hiden="true"></i>) )
 
-* Belonging to the mobile connectivity state, server send data set of different size
+*Belonging to the mobile connectivity state, server send data set of different size
 
 For instance, 
 
@@ -35,7 +35,7 @@ For instance,
 
 
 
-Sources :
+Resources :
 
 * [Android - Data Transfert by Gerardnico](http://gerardnico.com/wiki/android/data_transfer)
 * [Slide share](http://www.slideshare.net/CotapEng/efficient-data-transfer-tech-talk)
