@@ -15,6 +15,7 @@ Big Cookie Strategy was created to optimize exchange between a mobile applicatio
 ## What is Big Cookie Strategy ?
 
 ![Big Cookie Strategy in Mobile Development]({{ site.baseurl }}/img/big-cookie-strategy.png)
+
 <i class="fa fa-copyright" aria-hiden="true"></i> by [CHILLCODING](https://www.chillcoding.com) with [fontawesome](http://fontawesome.io/cheatsheet/)
 
 <i class="fa fa-list" aria-hiden="true"></i> Step by step:
