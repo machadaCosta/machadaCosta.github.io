@@ -20,11 +20,11 @@ Big Cookie Strategy was created to optimize exchange between a mobile applicatio
 
 <i class="fa fa-list" aria-hiden="true"></i> Step by step:
 
-1. Verify that connection is available on mobile ( <i class="fa fa-exclamation-triangle" aria-hiden="true"></i> <i class="fa fa-plane" aria-hiden="true"></i> )
-2. Ask needed data to server with the connectivity state in user agent (<i class="fa fa-exchange" aria-hiden="true"></i> )
-3. Receive prefetch* data from server ( <i class="fa fa-database" aria-hiden="true"></i> (<i class="fa fa-signal" aria-hiden="true"></i>) )
+1. Verify that connection is available on mobile <i class="fa fa-exclamation-triangle" aria-hiden="true"></i> <i class="fa fa-plane" aria-hiden="true"></i>
+2. Ask needed data to server with the connectivity state in user agent <i class="fa fa-exchange" aria-hiden="true"></i>
+3. Receive prefetch* data from server <i class="fa fa-database" aria-hiden="true"></i> ( <i class="fa fa-signal" aria-hiden="true"></i> )
 
-*Belonging to the mobile connectivity state, server send data set of different size
+*Server send data set of different size Belonging to the mobile connectivity state
 
 For instance, here is a data set proposal in terms of connectivity:
 
@@ -32,7 +32,7 @@ For instance, here is a data set proposal in terms of connectivity:
 | ---------- | :--------|
 | <i class="fa fa-signal" aria-hiden="true"></i> Edge | Info since one or two hour |
 | 3G or 4G | Info since 3 days |
-| <i class="fa fa-wifi" aria-hiden="true"></i>Wifi | Info since 15 days | 
+| <i class="fa fa-wifi" aria-hiden="true"></i> Wifi | Info since 15 days | 
 
 
 
