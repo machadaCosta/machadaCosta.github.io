@@ -16,7 +16,7 @@ Big Cookie Strategy was created to optimize exchange between a mobile applicatio
 
 ![Big Cookie Strategy in Mobile Development]({{ site.baseurl }}/img/big-cookie-strategy.png)
 
-<i class="fa fa-copyright" aria-hiden="true"></i> by [CHILLCODING](https://www.chillcoding.com) with [fontawesome](http://fontawesome.io/cheatsheet/)
+<i class="fa fa-copyright" aria-hiden="true"></i> by <a class="brand-chill" href="https://www.chillcoding.com" alt="ChillCoding website">CHILL<span class="brand-coding">C<span class="brand-o">O</span>DING</span></a> with [fontawesome](http://fontawesome.io/cheatsheet/)
 
 <i class="fa fa-list" aria-hiden="true"></i> Step by step:
 

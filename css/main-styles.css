@@ -1196,3 +1196,31 @@ ul.et_pb_side_nav .side_nav_item a.active { background-color: #fff !important; }
 	#page-container { padding-top: 0 !important; }
 	#respond { display: none; }
 }
+
+.green{
+	color: #66CC33;
+}
+.yellow{
+	color: #FFCC33;
+}
+.orange{
+	color: #CC6600;
+}
+.blue{
+	color: #3399FF;
+}
+.brand-chill{
+	font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
+	text-transform: uppercase;
+	text-transform: none !important;
+}
+.brand-coding{
+	font-weight: 700;
+}
+.brand-o{
+	color: #35E0B4;
+}
+.brand-chill:hover{
+	text-decoration: none;
+	color: #00274a;
+}
