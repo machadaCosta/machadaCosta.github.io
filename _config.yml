@@ -14,8 +14,7 @@ theme:
   description: "Macha Da is a blog about Android, Android Wear, Mobile Tech and chill out." # used by search engines
   visiblewords: 50
   # Header and footer text
-  header_text:
-     BORN TO BE MOBILE !
+  header_text: "BORN TO BE MOBILE !"
 
   header_text_feature_image: 
   place_holder_image:
