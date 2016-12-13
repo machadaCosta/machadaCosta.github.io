@@ -26,12 +26,12 @@ Comparison Point | <i class="fa fa-android fa-3x green" aria-hiden="true" aria-l
  Purchase App.    | <i class="fa fa-minus" aria-hiden="true"></i> | <i class="fa fa-plus" aria-hiden="true"></i> | iOS users are more enclined to purchase app. than Android users 
  Download App.    | <i class="fa fa-plus" aria-hiden="true"></i> | <i class="fa fa-minus" aria-hiden="true"></i> | More downloaded app. on Google Play 
  App. Control     | <i class="fa fa-minus" aria-hiden="true"></i> | <i class="fa fa-plus" aria-hiden="true"></i> | More control on Apple Store: about 1 week between submission and publication (5 hours for Google Play).
- User Experience  | <i class="fa fa-plus" aria-hiden="true"></i> | <i class="fa fa-plus" aria-hiden="true"></i> | Nowaday, this point of comparison is really subjective (*) 
+ User Experience  | <i class="fa fa-plus" aria-hiden="true"></i> | <i class="fa fa-plus" aria-hiden="true"></i> | Nowaday, this point of comparison is really subjective [^1] 
  Hardware         | <i class="fa fa-minus" aria-hiden="true"></i> | <i class="fa fa-plus" aria-hiden="true"></i> | Possibility of changing SIM card at runtime 
  Memory Usage     | <i class="fa fa-plus" aria-hiden="true"></i> | <i class="fa fa-minus" aria-hiden="true"></i> | Android device are like USB Key and it can host supplementary memory card 
 
 
-(*)To me, these last few years, Android User Interface(UI) tend to look like iPhone UI. Nevertheless, I prefer iPhone because of his toy appearence.
+[^1]: To me, these last few years, Android User Interface(UI) tend to look like iPhone UI. Nevertheless, I prefer iPhone because of his toy appearence.
 
 To conclude, this study compare Android and iOS from development/user point of view.
 
