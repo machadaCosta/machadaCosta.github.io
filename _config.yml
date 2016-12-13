@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://machadacosta.github.io" # the base hostname & protocol for your site
+url: "https://www.machada.io" # the base hostname & protocol for your site
 imageurl: "img/header/header.jpg" #"https://unsplash.it/2600/500?random"https://source.unsplash.com/category/nature/2600x500
 
 # THEME-SPECIFIC CONFIGURATION
