@@ -14,17 +14,17 @@ theme:
   description: "Macha Da is a blog about Android, Android Wear, Mobile Tech and chill out." # used by search engines
   visiblewords: 50
   # Header and footer text
-  header_text: >
+  header_text:
      BORN TO BE MOBILE !
 
   header_text_feature_image: 
   place_holder_image:
   footer_text: >
-   <a href="https://machadacosta.github.io">MACHA DA</a> 
+   <a href="https://www.machada.io">MACHA DA</a> 
 
   # Icons
   rss: false
-  email_address: "macha@machada.fr" # Full email address, e.g. "sam@example.com"
+  email_address: "macha@chillcoding.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
