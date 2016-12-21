@@ -6,12 +6,12 @@ imageurl: "img/header/header.jpg" #"https://unsplash.it/2600/500?random"https://
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: MACHA DA
+  title: MACHA DA COSTA
   #avatar: img/machada.png
   hometitle:  #display on navigation menu.
   yoursitetitle: 
   gravatar: # Email MD5 hash
-  description: "Macha Da is a blog about Android, Android Wear, Mobile Tech and chill out." # used by search engines
+  description: "This blog is about Android, Android Wear, Mobile Tech and chill out. By Macha Da Costa" # used by search engines
   visiblewords: 50
   # Header and footer text
   header_text: "BORN TO BE MOBILE !"
