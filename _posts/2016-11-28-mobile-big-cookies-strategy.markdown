@@ -7,6 +7,8 @@ category: mobile
 tags: [mobile development, big cookie strategy]
 excerpt: This post is about the Big Cookie Strategy in particular Big Cookie Model to optimise exchange between server and mobile.
 permalink: /mobile-big-cookie-strategy/
+redirect_to:
+  - https://www.chillcoding.com/blog/2017/01/13/mobile-big-cookies-strategy/
 ---
 
 Big Cookie Strategy was created to optimize exchange between a mobile application and a server.
